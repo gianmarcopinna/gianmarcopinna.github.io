@@ -39,7 +39,7 @@ interests:
   - Policy Evaluation
   - Economics of the European Union
 
-#education:
+education:
   - area: MSc in Economics
     institution: University of Bologna.
     
