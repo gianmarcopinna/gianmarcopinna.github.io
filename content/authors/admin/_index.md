@@ -110,6 +110,7 @@ education:
     percent: 75
 #  - name: Portuguese
     percent: 25
+---
 
 ## About Me
 
