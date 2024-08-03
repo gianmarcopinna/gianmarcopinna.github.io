@@ -29,7 +29,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - url: 'mailto:gianmarco.pinna@uniroma2.it'
+  - gianmarco.pinna@uniroma2.it'
     label: E-mail Me
 
 interests:
