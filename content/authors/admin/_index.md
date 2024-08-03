@@ -29,9 +29,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at_symbol
-  - url: 'mailto: gianmarco.pinna@uniroma2.it'
-    label:  E-mail me
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto: gianmarco.pinna@uniroma2.it'
 
 interests:
   - Labor Economics
