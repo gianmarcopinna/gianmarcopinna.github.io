@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 
+title: Gian Marco Pinna
 
 # Name pronunciation (optional)
-name_pronunciation: Gian Marco Pinna
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Gian Marco
@@ -11,7 +11,7 @@ last_name: Pinna
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Rome "Tor Vergata"
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gianmarco.pinna@uniroma2.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Labor Economics
+  - Applied Microeconomics
+  - Economics of the European Union
 
 education:
   - area: PhD Artificial Intelligence
