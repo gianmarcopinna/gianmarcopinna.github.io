@@ -25,6 +25,7 @@ role: PhD candidate in Economics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Rome "Tor Vergata"
+  - url: https://economia.uniroma2.it/phd/ef/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,7 +34,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: gianmarco.pinna@uniroma2.it'
-
+    
+# Interests to show in About widget
 interests:
   - Labor Economics
   - Applied Microeconomics
