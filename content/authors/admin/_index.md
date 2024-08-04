@@ -42,14 +42,16 @@ interests:
   - Policy Evaluation
   - Economics of the European Union
 
+# Education to show in About widget
 education:
 courses:
   - course: Ph.D. in Economics
     institution: University of Rome "Tor Vergata"
   - course: MSc in Economics
-    institution: University of Bologna.    
+    institution: University of Bologna    
   - course: BSc in Economics
-    institution: University of Cagliari    
+    institution: University of Cagliari
+    
 # work:
   # - position: Director of Cloud Infrastructure
     company_name: GenCoin
