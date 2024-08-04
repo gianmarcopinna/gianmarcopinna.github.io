@@ -28,7 +28,6 @@ organizations:
   - url: https://economia.uniroma2.it/phd/ef/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
 social:
   - icon: envelope
@@ -47,10 +46,13 @@ education:
 courses:
   - course: Ph.D. in Economics
     institution: University of Rome "Tor Vergata"
+    year: ''
   - course: MSc in Economics
-    institution: University of Bologna    
+    institution: University of Bologna
+    year: '' 
   - course: BSc in Economics
     institution: University of Cagliari
+    year: ''
     
 # work:
   # - position: Director of Cloud Infrastructure
