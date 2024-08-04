@@ -42,13 +42,14 @@ interests:
 
 education:
 courses:
-  - course: Phd in Economics
+  - course: Ph.D. in Economics
     institution: University of Rome "Tor Vergata"
     year: Expected 2025
   - course: MSc in Economics
     institution: University of Bologna.    
   - course: BSc in Economics
     institution: University of Cagliari
+    
 # work:
   # - position: Director of Cloud Infrastructure
     company_name: GenCoin
