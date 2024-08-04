@@ -46,13 +46,10 @@ education:
 courses:
   - course: Ph.D. in Economics
     institution: University of Rome "Tor Vergata"
-    year: ''
   - course: MSc in Economics
     institution: University of Bologna
-    year: '' 
   - course: BSc in Economics
     institution: University of Cagliari
-    year: ''
     
 # work:
   # - position: Director of Cloud Infrastructure
@@ -78,47 +75,6 @@ courses:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-# skills:
-  # - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-#  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-# languages:
- # - name: English
-    percent: 100
-#  - name: Chinese
-    percent: 75
-#  - name: Portuguese
-    percent: 25
 ---
 
 ## About Me
