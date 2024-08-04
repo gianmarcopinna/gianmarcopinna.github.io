@@ -43,12 +43,12 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: Ph.D. in Economics
+courses:
+  - course: Ph.D. in Economics
     institution: University of Rome "Tor Vergata"
-    - course: MSc in Economics
+  - course: MSc in Economics
     institution: University of Bologna
-    - course: BSc in Economics
+  - course: BSc in Economics
     institution: University of Cagliari
     
 # work:
