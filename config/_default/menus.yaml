@@ -6,4 +6,4 @@
 main:
   - name: Research
     url: /
-    weight: 10
+    weight: 40
