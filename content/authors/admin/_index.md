@@ -48,8 +48,7 @@ courses:
   - course: MSc in Economics
     institution: University of Bologna.    
   - course: BSc in Economics
-    institution: University of Cagliari
-    
+    institution: University of Cagliari    
 # work:
   # - position: Director of Cloud Infrastructure
     company_name: GenCoin
