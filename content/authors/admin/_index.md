@@ -44,4 +44,4 @@ education:
 ## About Me
 
 Welcome!
-I am a Ph.D. candidate at the Economics and Finance Department of Tor Vergata University of Rome. My research includes topics in labor economics, policy evaluation, and economic history.
+I am a Ph.D. candidate at the Economics and Finance Department of the Tor Vergata University of Rome. My research includes topics in labor economics, policy evaluation, and economic history.
