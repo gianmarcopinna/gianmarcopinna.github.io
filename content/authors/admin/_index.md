@@ -81,4 +81,3 @@ courses:
 
 Welcome!
 I am a Ph.D. candidate at the Economics and Finance Department of University of Rome "Tor Vergata." My research includes topics in labor economics, policy evaluation, and economic history.
-{style="text-align: justify;"}
