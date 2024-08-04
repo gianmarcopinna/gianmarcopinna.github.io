@@ -33,7 +33,7 @@ interests:
 
 education:
   - area: PhD Economics 
-    institution: University of Rome “Tor Vergata”
+    institution: Tor Vergata University of Rome
   - area: MSc in Economics
     institution: University of Bologna
   - area: BSc in Economics
@@ -44,4 +44,4 @@ education:
 ## About Me
 
 Welcome!
-I am a Ph.D. candidate at the Economics and Finance Department of University of Rome "Tor Vergata." My research includes topics in labor economics, policy evaluation, and economic history.
+I am a Ph.D. candidate at the Economics and Finance Department of Tor Vergata University of Rome. My research includes topics in labor economics, policy evaluation, and economic history.
