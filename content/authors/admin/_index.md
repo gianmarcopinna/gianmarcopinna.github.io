@@ -45,11 +45,11 @@ interests:
 education:
 courses:
   - area: Ph.D. in Economics
-    institution: University of Rome "Tor Vergata"
+    # institution: University of Rome "Tor Vergata"
   - area: MSc in Economics
-    institution: University of Bologna
+    # institution: University of Bologna
   - area: BSc in Economics
-    institution: University of Cagliari
+    # institution: University of Cagliari
     
 # work:
   # - position: Director of Cloud Infrastructure
