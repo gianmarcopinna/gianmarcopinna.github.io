@@ -29,6 +29,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: gianmarco.pinna@uniroma2.it'
@@ -40,10 +41,13 @@ interests:
   - Economics of the European Union
 
 education:
-  - area: MSc in Economics
-    institution: University of Bologna.
-    
-  - area: BSc in Economics
+courses:
+  - course: Phd in Economics
+    institution: University of Rome "Tor Vergata"
+    year: Expected 2025
+  - course: MSc in Economics
+    institution: University of Bologna.    
+  - course: BSc in Economics
     institution: University of Cagliari
 # work:
   # - position: Director of Cloud Infrastructure
