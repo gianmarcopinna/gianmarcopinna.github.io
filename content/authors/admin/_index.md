@@ -23,7 +23,7 @@ role: PhD candidate in Economics
 profiles:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto: gianmarco.pinna@uniroma2.it'
+    link: 'mailto: gianmarcopinna1@gmail.com'
     
 
 interests:
