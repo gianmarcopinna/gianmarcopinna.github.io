@@ -35,5 +35,5 @@ sections:
     content:
       title: Contacts
       subtitle: A subtitle
-      text: <div class="container"><div class="row"><div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start"></div><div class="col-12 col-lg-8"><p>Feel free to reach out via one of the following options.</p><ul class="fa-ul"><li><i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i><span id="person-email"><a href="mailto:gianmarco.pinna@uniroma2.it">gianmarco.pinna@uniroma2.it</a></span></li><li><i
+      text: <div class="container"><div class="row"><div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start"></div><div class="col-12 col-lg-8"><p>Feel free to reach out via one of the following options.</p><ul class="fa-ul"><li><i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i><span id="person-email"><a href="mailto:gianmarco.pinna@uniroma2.it">gianmarco.pinna@uniroma2.it</a></span><
 ---
