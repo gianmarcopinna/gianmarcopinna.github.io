@@ -13,3 +13,6 @@ main:
   - name: Teaching
     url: /
     weight: 30
+  - name: Contacts
+    url: /
+    weight: 40
