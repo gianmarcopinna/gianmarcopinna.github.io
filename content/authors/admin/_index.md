@@ -26,7 +26,7 @@ profiles:
     link: 'mailto: gianmarco.pinna@uniroma2.it'
   - icon: cv
     icon_pack: ai
-    link: static/resume.pdf
+    link: resume.pdf
     
 
 interests:
