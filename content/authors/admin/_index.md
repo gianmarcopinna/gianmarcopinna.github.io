@@ -45,4 +45,5 @@ education:
 ## Welcome!
 
 I am a Ph.D. candidate at the Economics and Finance Department of the Tor Vergata University of Rome. My research includes topics in labor economics, policy evaluation, and economic history.
+
 I hold a B.Sc. and a M.Sc. in Economics from the University of Cagliari and the University of Bologna, respectively. I have also worked for the European Central Bank and the European Investment Bank in between my Master's and Ph.D. studies.
