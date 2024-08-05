@@ -24,9 +24,6 @@ profiles:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: gianmarco.pinna@uniroma2.it'
-  - icon: cv
-    icon_pack: ai
-    link: static/resume.pdf
 
 interests:
   - Labor Economics
