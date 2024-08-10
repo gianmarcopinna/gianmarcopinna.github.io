@@ -24,10 +24,10 @@ profiles:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: gianmarcopinna1@gmail.com'
-  - icon: cv
-    icon_pack: ai
+  - icon: assets\media\icons\cv.svg
     link: uploads/resume.pdf
-    
+
+
 interests:
   - Labor Economics
   - Applied Microeconomics
