@@ -24,7 +24,7 @@ profiles:
   - icon: envelope
     icon_pack: fas
     link: 'mailto: gianmarcopinna1@gmail.com'
-  - icon: assets\media\icons\cv.svg
+  - icon: assets\media\icons\cv
     link: uploads/resume.pdf
 
 
