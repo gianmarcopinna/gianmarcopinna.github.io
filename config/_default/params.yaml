@@ -48,3 +48,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+extensions:
+  academicons:
+    enable: true
