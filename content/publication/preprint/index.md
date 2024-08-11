@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job Security"
 authors:
 - admin
 date: "2024-08-07T00:00:00Z"
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Existing research on the cost of job loss has typically overlooked the role of job sorting after displacement in the perpetuation of recursive unemployment. This study aims to fill this gap by estimating the decline in job security associated with the occupations matched by displaced employees following their dismissals. Using a dataset containing the employment histories of about four million individuals working in Italy that allows for disentangling voluntary from involuntary job moves, I construct two indicators of job security attached to each specific occupation: one that captures the risk of dismissal and the other that conveys a measure of expected tenure. Then, employing an identification strategy that exploits mass layoffs as exogenous variations, I estimate the impact of job loss on the expected job security of subsequent jobs. I find that displacement episodes generate an increased risk of dismissal intrinsic to the following job match of about 2.38% and a lower expected tenure of around 156 days.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
