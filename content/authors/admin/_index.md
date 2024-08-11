@@ -35,7 +35,7 @@ interests:
   - Economics of the European Union
 
 education:
-  - area: PhD Economics 
+  - area: PhD in Economics 
     institution: Tor Vergata University of Rome
   - area: MSc in Economics
     institution: University of Bologna
