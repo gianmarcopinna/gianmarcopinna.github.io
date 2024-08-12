@@ -24,9 +24,7 @@ abstract: "Existing research on the cost of job loss has typically overlooked th
 # summary: ""
 
 links:
-- icon: envelope
-    icon_pack: fas
-    name: Preliminary draft available upon request
+    - name: Preliminary draft available upon request
     link: 'mailto: gianmarcopinna1@gmail.com'
 
 # Associated Projects (optional).
