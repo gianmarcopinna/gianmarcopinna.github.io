@@ -10,7 +10,17 @@ design:
 sections:
   - block: collection
     content:
-      title: Recent Publications
+      title: Working papers
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Work in Progress
       text: ""
       filters:
         folders:
