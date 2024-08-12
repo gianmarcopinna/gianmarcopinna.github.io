@@ -1,6 +1,5 @@
 ---
-title: "The heritage of WWII on female labor-force
-participation: the Italian case"
+title: "The heritage of WWII on female labor force participation: the Italian case"
 
 authors:
 - Gian Marco Pinna
