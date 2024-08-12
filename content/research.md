@@ -14,7 +14,7 @@ sections:
       text: ""
       filters:
         folders:
-          - preprint
+          - publication
         exclude_featured: false
     design:
       view: citation
@@ -24,7 +24,7 @@ sections:
       text: ""
       filters:
         folders:
-          - workinprogress
+          - publication
         exclude_featured: false
     design:
       view: citation
