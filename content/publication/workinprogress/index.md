@@ -3,7 +3,7 @@ title: "The heritage of WWII on female labor-force
 participation: the Italian case"
 
 authors:
-- admin
+- Gian Marco Pinna
 - Sabrina Di Addario
 - Matteo Gomellini
   
