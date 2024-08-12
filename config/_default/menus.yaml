@@ -7,12 +7,6 @@ main:
   - name: Research
     url: /research
     weight: 10
-  - name: Work Experience
-    url: /
-    weight: 20
-  - name: Teaching
-    url: /
-    weight: 30
   - name: Contacts
     url: /
-    weight: 40
+    weight: 20
