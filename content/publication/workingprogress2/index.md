@@ -1,6 +1,6 @@
 ---
 title: "The effect of easing access to credit on firms
-employment: the case: evidence from Italian linked administrative data (tentative title)"
+employment: evidence from Italian linked administrative data (tentative title)"
 
 authors:
 - Gian Marco Pinna
