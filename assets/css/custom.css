@@ -1,0 +1,11 @@
+.avatar-wrapper {
+  width: unset;
+  height: unset;
+}
+
+.resume-biography .avatar {
+  width: 300px;
+  height: 300px;
+  max-width: 300px;
+  max-height: 300px;
+}
