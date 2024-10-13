@@ -18,6 +18,6 @@ sections:
         folders:
           - teaching
     design:
-      view: citation
+      view: community/teaching
       columns: 2
 ---
