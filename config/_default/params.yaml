@@ -52,3 +52,5 @@ features:
 extensions:
   academicons:
     enable: true
+  brands:
+    enable: true
