@@ -1,5 +1,5 @@
 ---
 title: Econometrics - MSc in Economics - Tor Vergata University of Rome (Fall 2021)
-date: ""
+date: "2021-10-07"
 
 ---
