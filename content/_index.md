@@ -36,7 +36,7 @@ sections:
       title: Contacts
       subtitle: A subtitle
       text:
-        <div class="container">  <div class="row">   <div      class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column     align-items-center align-items-lg-start">    </div>    <div class="col-12 col-lg-8">      <p>Feel free to reach out via one of the following options.</p>      <ul class="fa-ul">
+        <div class="container">  <div class="row">   <div      class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column     align-items-center align-items-lg-start">    </div>    <div class="col-12 col-lg-8">      <p>Feel free to reach out via one of the following options:</p>      <ul class="fa-ul">
         <div class="flex gap-4 items-center"><svg style="height:1.5rem;" xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 24 24">
         <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
