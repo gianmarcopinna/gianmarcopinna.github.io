@@ -18,6 +18,12 @@
         {{- $item.Params.publication | markdownify -}}.
         {{ end }}
 
+          {{ if $item.Params.abstract }}
+        <div class="flex flex-wrap space-x-3 my-2 text-sm">
+            {{ $item.Params.abstract }}
+        </div>
+        {{ end }}
+
         {{ if $has_attachments }}
         <div class="flex flex-wrap space-x-3">
             {{ partial "page_links" (dict "page" $item "is_list" 1) }}
