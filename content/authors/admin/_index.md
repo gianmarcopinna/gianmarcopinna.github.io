@@ -15,11 +15,11 @@ role: PhD candidate in Economics
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: cv
+    link: uploads/resume.pdf
   - icon: envelope
     icon_pack: fas
     link: "mailto: gianmarcopinna1@gmail.com"
-  - icon: cv
-    link: uploads/resume.pdf
   - icon: brands/linkedin
     link: https://www.linkedin.com/in/gian-marco-pinna-853709b6
   - icon: brands/x
