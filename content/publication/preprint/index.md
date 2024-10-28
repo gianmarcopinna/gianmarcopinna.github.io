@@ -23,10 +23,6 @@ abstract: "Existing research on the cost of job loss has typically overlooked th
 # Summary. An optional shortened abstract.
 # summary: ""
 
-links:
-    - name: Preliminary draft available upon request
-      url: mailto:gianmarcopinna1@gmail.com
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
