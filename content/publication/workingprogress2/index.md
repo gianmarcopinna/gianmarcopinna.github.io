@@ -1,5 +1,5 @@
 ---
-title: "The effect of easing access to credit on firms employment (preliminary)"
+title: "The effect of easing access to credit on firms' employment"
 
 authors:
 - Gian Marco Pinna
