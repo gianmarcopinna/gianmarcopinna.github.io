@@ -1,6 +1,5 @@
 ---
-title: "The Heritage of WWII on Women’s Work: the
-Italian case"
+title: "The Heritage of WWII on Women’s Work: The Italian Case"
 
 authors:
 - Gian Marco Pinna
