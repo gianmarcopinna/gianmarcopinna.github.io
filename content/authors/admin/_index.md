@@ -41,6 +41,6 @@ education:
 I am a Ph.D. candidate at the Economics and Finance Department of the Tor Vergata University of Rome. My research interests include topics in labor economics and applied microeconomics.
 I hold a B.Sc. in Economics from the University of Cagliari and a M.Sc. in Economics from the University of Bologna. I have also worked in between my Master's and Ph.D. studies as a trainee and a research analyst in the DG-Economics of the European Central Bank and as a trainee in the Economics Department of the European Investment Bank.
 
-This fall, I will be on the job market!
+**This fall, I will be on the job market!**
 
 In my job market paper, I investigate the root causes behind the observed phenomenon of recursive unemployment in displaced workers' careers. In particular, I estimate the impact of displacement on the job security attached to the type of jobs found by dismissed workers after dismissal. I find that displacement leads displaced workers to match occupations that feature a substantial drop in job security.
