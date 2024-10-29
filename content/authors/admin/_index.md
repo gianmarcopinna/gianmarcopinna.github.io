@@ -43,4 +43,4 @@ I hold a B.Sc. in Economics from the University of Cagliari and a M.Sc. in Econo
 
 This fall, I will be on the job market!
 
-In my job market paper, I investigate the root causes behind the observed phenomenon of recursive unemployment in displaced workers' careers. In particular, I estimate the impact of displacement on the job security attached to the type of jobs found by dismissed workers after dismissal. My findings suggest that displacement leads workers to match occupations that feature a substantial drop in job security, which may ultimately give rise to vicious cycles of repeated unemployment spells.
+In my job market paper, I investigate the root causes behind the observed phenomenon of recursive unemployment in displaced workers' careers. In particular, I estimate the impact of displacement on the job security attached to the type of jobs found by dismissed workers after dismissal. My findings suggest that displacement leads workers to match occupations that feature a substantial drop in job security, which may ultimately give rise to vicious cycles of repeated unemployment.
