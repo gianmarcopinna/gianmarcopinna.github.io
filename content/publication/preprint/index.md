@@ -1,5 +1,5 @@
 ---
-title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job Security"
+title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job Security (job market paper)" 
 
 authors:
 - admin
