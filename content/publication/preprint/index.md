@@ -2,7 +2,7 @@
 title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job Security (older version/redirect)" 
 
 authors:
-date: "2024-08-07T00:00:00Z"
+date: "0000-08-07T00:00:00Z"
 doi: ""
 
 ---
