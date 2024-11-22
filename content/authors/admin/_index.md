@@ -22,8 +22,6 @@ profiles:
     link: "mailto: gianmarcopinna1@gmail.com"
   - icon: brands/linkedin
     link: https://www.linkedin.com/in/gian-marco-pinna-853709b6
-  - icon: brands/x
-    link: https://x.com/GianMarcoPinna
 interests:
   - Labor Economics
   - Applied Microeconomics
