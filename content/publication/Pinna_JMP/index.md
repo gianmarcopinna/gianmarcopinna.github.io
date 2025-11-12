@@ -3,7 +3,7 @@ title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job
 
 authors:
 - admin
-date: "2024-08-07T00:00:00Z"
+date: "2025-08-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
