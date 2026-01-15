@@ -40,6 +40,7 @@ I am a Senior Economist at the National Bank of Slovakia. I hold a Ph.D. in Econ
 
 My research interests include topics in labor economics and applied microeconomics. 
 
-I also hold a B.Sc. in Economics from the University of Cagliari and a M.Sc. in Economics from the University of Bologna. I have also worked in between my Master's and Ph.D. studies as a trainee and a research analyst in the DG-Economics of the European Central Bank and as a trainee in the Economics Department of the European Investment Bank.
+I also hold a B.Sc. in Economics from the University of Cagliari and a M.Sc. in Economics from the University of Bologna. I have also worked in between my Master's and Ph.D. studies in the Directorate of Economics of the European Central Bank and in the Economics Department of the European Investment Bank.
+
 
 
