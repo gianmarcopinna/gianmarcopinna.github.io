@@ -1,5 +1,5 @@
 ---
-title: "Job Loss and Job Prospects: Estimating the Impact of Displacement on Job Security (job market paper)" 
+title: "Job Loss and Occupational Job Security: Evidence from Post-Displacement Sorting" 
 
 authors:
 - admin
@@ -18,7 +18,7 @@ doi: ""
 # publication: ""
 # publication_short: ""
 
-abstract: "Existing research on the cost of job loss has typically overlooked the role of job sorting after displacement in the perpetuation of recursive unemployment. This study aims to estimate the decline in job security associated with the type of jobs matched by displaced employees following their dismissals. Using a dataset containing the employment histories of about four million individuals working in Italy that allows for disentangling voluntary from involuntary job moves, I construct two indicators of job security attached to each specific type of job: one that captures the risk of dismissal and the other that conveys a measure of expected tenure. Then, employing an identification strategy that exploits collective dismissals as exogenous variations and a difference-in-differences methodology that uses not-yet-treated units as a control group, I estimate the impact of job loss on the expected job security of subsequent job types. I find that displacement generates an increased risk of dismissal intrinsic to the post-displacement type of jobs of about 2.38 percentage points and a lower expected tenure of around 156 days. This is equal to approximately a 13% decline in job security compared to pre-displacement averages."
+abstract: "Existing research on the cost of job loss has often overlooked the role of job sorting following displacement in contributing to recursive unemployment. This study estimates the effect of displacement on the job security associated with the occupations matched by displaced workers following dismissal. Using a dataset containing the employment histories of approximately four million individuals working in Italy, which allows for disentangling voluntary from involuntary job moves, I construct two sector-specific occupational indicators of job security that I attach to each employment spell: one capturing the risk of dismissal and the other conveying a measure of expected tenure. Then, employing an identification strategy that exploits collective dismissals as exogenous variations and the staggered treatment timing at which they occur, I find that displacement leads to an increase in the risk of dismissal inherent to post-displacement occupations of about 2.36 percentage points and a lower expected tenure of around 155 days. These effects correspond to an approximately 12-to-13% decline in job security relative to pre-displacement averages."
 
 # Summary. An optional shortened abstract.
 # summary: ""
