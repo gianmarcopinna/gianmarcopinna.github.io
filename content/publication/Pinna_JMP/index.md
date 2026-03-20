@@ -3,7 +3,7 @@ title: "Job Loss and Occupational Job Security: Evidence from Post-Displacement 
 
 authors:
 - admin
-date: "2026-03-07T00:00:00Z"
+date: "2026-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
